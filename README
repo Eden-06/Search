@@ -1,0 +1,10 @@
+Search is a Java based framework for problem solving through searching. 
+It's inspired by the Lecture 'Grundlagen der künstlichen Intelligenz'
+and is based on Algorithms introduced in the Book 
+'Artificial Intelligence - A modern Approach' by Stuart J. Russell, Peter Norvig et al.
+
+This framework is applicable to a multitude of different problem classes.
+In order to allow User's to get insight into different search algorithms,
+we included an extensive documentation and several examples about commen problems.
+
+The overall architecture is seperated into three layers core, basic and extended.

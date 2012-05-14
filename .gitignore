@@ -1,0 +1,14 @@
+
+#ignore eclipse settings
+.settings/**/*
+.classpath
+.project
+
+#ignore binaries
+bin/**/*
+
+#ignore Layer.ods
+Layer.ods
+
+#version zip
+search_0.9.8.zip
